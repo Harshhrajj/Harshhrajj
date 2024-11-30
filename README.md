@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshhrajj&label=Profile%20views&color=0e75b6&style=flat" alt="harshhrajj" /> </p>
 
-- 🔭 I’m currently working on **Smart India Hackathon project**
+- 🔭 I’m currently working on **Cybersecurity Projects**
 
 - 🌱 I’m currently learning **Cybersecurity & Ethical Hacking**
 
