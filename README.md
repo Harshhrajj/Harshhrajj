@@ -14,7 +14,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/harsh-raj-545600290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/harsh-raj-545600290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- ⚡ Fun fact **I am funny😂😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
